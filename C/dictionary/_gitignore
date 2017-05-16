@@ -1,0 +1,7 @@
+*.o
+*.csv
+*.gch
+bynary_search_tree/test
+bynary_search_tree/record
+hashtable/test
+hashtable/record

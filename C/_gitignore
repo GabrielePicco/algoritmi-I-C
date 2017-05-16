@@ -1,0 +1,6 @@
+*.o
+*.gch
+*record
+*test
+*.exe
+*.csv

@@ -1,0 +1,10 @@
+*.o
+*.csv
+quick/test
+quick/record
+merge/test
+merge/record
+insertion/test
+insertion/record
+heap/test
+heap/record
